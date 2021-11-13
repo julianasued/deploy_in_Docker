@@ -7,7 +7,7 @@ O foco do desafio é no deploy, contém um arquivo Dockerfile para realizar a bu
 ```
 ✅  Deploy em React. Finalizado.  ✅
 ```
-Imagens do desenvolvimento port:3001
+Imagem do desenvolvimento port:3001
 <h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/desenvolvimento.png" />
 </h1>
@@ -15,6 +15,7 @@ Imagem de produção localhost
 <h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/producao.png" />
 </h1>
+
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
