@@ -1,8 +1,8 @@
-# Desafio Tech (DevOps)
+# (DevOps)
 
 ## Descrição do Projeto
 
-O foco do desafio é no deploy, contém um arquivo Dockerfile para realizar a build (construção da aplicação). O arquivo responsável por subir o container foi o Docker-compose contendo as demais informações (Ex. porta, nome, imagem, etc...). Foi utilizado NGINX para permitir o acesso através da porta 80 direcionando para a porta do container e realizado em uma máquina Linux.
+O foco é no deploy, contém um arquivo Dockerfile para realizar a build (construção da aplicação). O arquivo responsável por subir o container foi o Docker-compose contendo as demais informações (Ex. porta, nome, imagem, etc...). Foi utilizado NGINX para permitir o acesso através da porta 80 direcionando para a porta do container e realizado em uma máquina Linux.
 
 ```
 ✅  Deploy em React. Finalizado.  ✅
